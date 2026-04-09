@@ -10,7 +10,7 @@ Hi, I'm Simon 👋
 
 🔹 AI Assistant (GettingOnWithElijah)
 Built an online AI assistant using Python to automate basic tasks.  
-👉  
+👉  https://github.com/elijang98/Gettingonwithelijah.git
 
 🔹 Unity Web Game
 Developed a simple web-based game using Unity and continue adding features.  
